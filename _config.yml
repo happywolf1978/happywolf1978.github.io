@@ -32,16 +32,6 @@ author:
   uri              : "https://www.7yuan.cn/article/1341.html"
   email            : "hanxwn@126.com" 
 
-author:
-avatar : "profile.png"
-name : "Han Xianwei"
-pronouns :
-bio : "Associate Chief Physician, Department of Dermatology"
-location : "Shenyang, China"
-employer : "Shenyang Seventh People's Hospital"
-uri :
-email : "hanxwn@126.com"
-
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
